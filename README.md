@@ -1,4 +1,4 @@
-# Projets-OpenClassrooms
+# Projets OpenClassrooms
 Principaux projets réalisés au cours de ma formation de Data Analyst chez OpenClassRooms portant sur :
 
 - <b>Création et utilisation d'une base de données immobilière avec SQL :</b> dictionnaire de données, modèle conceptuel de données, modélisation physique des données formalisé en UML via SQL PowerArchitect, schéma relationnel normalisé, création + alimentation de la bdd sous PostgreSQL, requêtes SQL
